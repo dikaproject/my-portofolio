@@ -1,0 +1,25 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+#projects{
+    background-color: #e2edff;
+}
+
+.display-4{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.lead{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
